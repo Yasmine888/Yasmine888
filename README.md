@@ -1,6 +1,5 @@
 ### Howdy! 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... IT Security Audit
 - 🌱 I’m currently learning ... AI, Cloud, Web Design
